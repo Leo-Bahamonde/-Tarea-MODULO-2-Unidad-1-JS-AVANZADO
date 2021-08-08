@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 30px; 
+}
+.box1{
+    
+    display: inline;
+    background: red;
+    margin: 20px;
+    padding: 50px;  
+}
+
+.box1:hover{
+    background: rgb(207, 0, 0);
+    cursor: pointer;
+}
+
+.box2{
+    display: inline;
+    background: yellow;
+    margin: 20px;
+    padding: 50px;  
+}
+.box2:hover{
+    background:goldenrod;
+    cursor: pointer;
+}
+
+.box3{
+    display: inline;
+    background: green;
+    margin: 20px;
+    padding: 50px;
+}
+.box3:hover{
+    background: rgb(1, 93, 1);
+    cursor: pointer;
+}
+
+.reset:hover{
+    background: grey;
+    cursor: pointer;
+}
